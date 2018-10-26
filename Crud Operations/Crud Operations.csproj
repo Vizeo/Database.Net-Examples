@@ -13,4 +13,8 @@
     <RootNamespace>Crud_Operations</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Database.NET" Version="1.0.0.5" />
+  </ItemGroup>
+
 </Project>
