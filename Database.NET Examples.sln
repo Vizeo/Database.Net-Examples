@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud Operations", "Crud Operations\Crud Operations.csproj", "{4AA6E664-8CB5-4684-8E05-721B067B5DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationProperties", "NavigationProperties\NavigationProperties.csproj", "{79B400CD-158F-415E-9463-E8C276631448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AA6E664-8CB5-4684-8E05-721B067B5DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA6E664-8CB5-4684-8E05-721B067B5DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA6E664-8CB5-4684-8E05-721B067B5DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B400CD-158F-415E-9463-E8C276631448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B400CD-158F-415E-9463-E8C276631448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B400CD-158F-415E-9463-E8C276631448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B400CD-158F-415E-9463-E8C276631448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
