@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Database.NET" Version="1.0.0.5" />
+    <PackageReference Include="Database.NET" Version="1.0.0.7" />
   </ItemGroup>
 
 </Project>
